@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\senag\\OneDrive\\Documentos\\GitHub\\POO1-2024\\POO1-2024.csproj",
+      "projectUniqueName": "C:\\Users\\senag\\OneDrive\\Documentos\\GitHub\\POO1-2024\\Veiculos - AV1\\POO1-2024.csproj",
       "projectName": "POO1-2024",
-      "projectPath": "C:\\Users\\senag\\OneDrive\\Documentos\\GitHub\\POO1-2024\\POO1-2024.csproj",
+      "projectPath": "C:\\Users\\senag\\OneDrive\\Documentos\\GitHub\\POO1-2024\\Veiculos - AV1\\POO1-2024.csproj",
       "packagesPath": "C:\\Users\\senag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\senag\\OneDrive\\Documentos\\GitHub\\POO1-2024\\obj\\",
+      "outputPath": "C:\\Users\\senag\\OneDrive\\Documentos\\GitHub\\POO1-2024\\Veiculos - AV1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

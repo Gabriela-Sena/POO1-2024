@@ -14,7 +14,7 @@ public class Veiculo
         Ano = ano;
     }
 
-    public void ExibirInformacoes()
+    public virtual void ExibirInformacoes()//precisa ser virutal ou abstrata para ser herdada
     {
         Console.WriteLine($"Marca: {Marca}, Modelo: {Modelo}, Ano: {Ano}");
     }

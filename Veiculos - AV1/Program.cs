@@ -10,5 +10,7 @@ class Program
         Carro carroNovo = new Carro("Fiat", "Punto", 2011, 4);
         carroNovo.ExibirInformacoes();
 
+        Moto motoNova = new Moto("Yamaha", "Factor", 2008, "4.5cv");
+        motoNova.ExibirInformacoes();
     }
 }

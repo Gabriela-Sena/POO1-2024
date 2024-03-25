@@ -8,4 +8,10 @@ public class Carro : Veiculo
     {
         NumeroDePortas = numeroDePortas;
     }
+
+
+    public override void ExibirInformacoes()
+    {
+        Console.WriteLine($"Marca: {Marca}, Modelo: {Modelo}, Ano: {Ano}, Numero de Portas: {NumeroDePortas}");
+    }
 }
