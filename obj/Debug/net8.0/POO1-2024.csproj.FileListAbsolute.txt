@@ -1,0 +1,15 @@
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\bin\Debug\net8.0\POO1-2024.exe
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\bin\Debug\net8.0\POO1-2024.deps.json
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\bin\Debug\net8.0\POO1-2024.runtimeconfig.json
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\bin\Debug\net8.0\POO1-2024.dll
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\bin\Debug\net8.0\POO1-2024.pdb
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\POO1-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\POO1-2024.AssemblyInfoInputs.cache
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\POO1-2024.AssemblyInfo.cs
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\POO1-2024.csproj.CoreCompileInputs.cache
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\POO1-2024.sourcelink.json
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\POO1-2024.dll
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\refint\POO1-2024.dll
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\POO1-2024.pdb
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\POO1-2024.genruntimeconfig.cache
+C:\Users\senag\OneDrive\Documentos\GitHub\POO1-2024\obj\Debug\net8.0\ref\POO1-2024.dll
