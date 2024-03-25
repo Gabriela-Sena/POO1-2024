@@ -8,4 +8,15 @@ public class Caminhao : Veiculo
     {
         CapacidadeDeCarga = capacidadeDeCarga;
     }
+
+    public override void ExibirInformacoes()
+    {
+        Console.WriteLine($"Marca: {Marca}, Modelo: {Modelo}, Ano: {Ano}, Capacidade em Toneladas: {CapacidadeDeCarga}");
+    }
+
+    public override float CalcularImposto()
+    {
+        float imposto = 780  * CapacidadeDeCarga + 445;
+        return imposto;
+    }
 }

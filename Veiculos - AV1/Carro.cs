@@ -14,4 +14,10 @@ public class Carro : Veiculo
     {
         Console.WriteLine($"Marca: {Marca}, Modelo: {Modelo}, Ano: {Ano}, Numero de Portas: {NumeroDePortas}");
     }
+
+    public override float CalcularImposto()
+    {
+        float imposto = 330  * NumeroDePortas;
+        return imposto;
+    }
 }

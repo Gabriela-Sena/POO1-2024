@@ -2,15 +2,21 @@ namespace POO1_2024;
 
 public class Moto : Veiculo
 {
-    public string  Cilindradas { get; set; }
+    public float  Cilindradas { get; set; }
 
-    public Moto(string marca, string modelo, int ano, string cilindradas) : base(marca, modelo, ano)
+    public Moto(string marca, string modelo, int ano, float cilindradas) : base(marca, modelo, ano)
     {
         Cilindradas = cilindradas;
     }
 
     public override void ExibirInformacoes()
     {
-        Console.WriteLine($"Marca: {Marca}, Modelo: {Modelo}, Ano: {Ano}, Numero de Portas: {Cilindradas}");
+        Console.WriteLine($"Marca: {Marca}, Modelo: {Modelo}, Ano: {Ano}, Cilindradas: {Cilindradas}");
+    }
+
+    public override float CalcularImposto()
+    {
+        float imposto = 150  * Cilindradas;
+        return imposto;
     }
 }

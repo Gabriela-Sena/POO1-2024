@@ -19,4 +19,9 @@ public class Veiculo
         Console.WriteLine($"Marca: {Marca}, Modelo: {Modelo}, Ano: {Ano}");
     }
 
+    public virtual float CalcularImposto()
+    {
+        return 0; // Implementação padrão para veículos genéricos
+    }
+
 }
